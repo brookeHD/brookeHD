@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="30" height="30"/>&nbsp;
 <!--   <img src="https://cdn.simpleicons.org/pandas/blue" title="Pandas" width="30" height="30"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="Pytorch" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorchlightning/#792EE5" title="Pytorch Lightning" width="30" height="30"/>&nbsp; 
+  <img src="https://cdn.simpleicons.org/lightning/#792EE5" title="Pytorch Lightning" width="30" height="30"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" width="30" height="30"/>&nbsp;
   <img src="https://cdn.simpleicons.org/keras/#D00000" title="Keras" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="30" height="30"/>&nbsp;
