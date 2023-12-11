@@ -1,11 +1,10 @@
 <!--<img src="https://github.com/brookeHD/sitepoint-github-profile/blob/7308b2cdac95ae52d71dc30d14006b44ce7baf1c/assets/github-header-image.png" width="1200px">-->
 <!-- <img align="right" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" height="300"/> -->
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am
 - 👩‍💻 An Adventurer with a passion for challenges.
 - 🌱 currently speaks Java 
 <!-- - 📫 Reach me at brooke.chu4ds@gmail.com -->
-
 <img align=right src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif" height="300" />&nbsp;&nbsp;
 ### 🛠 Tech Stack :
 <div>
@@ -58,13 +57,10 @@
   <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="30" height="30"/>&nbsp; -->
 </div>
 </br>
-
----
-
 <!-- ### 🔍 My Stats : -->
 <p align=right>
-  <img style="float: right; margin: 50px 15px 50px 15px;" src="https://github-readme-stats.vercel.app/api?username=brookeHD&show_icons=true&count_private=true" title="GitHub stats" width="500" height="300"/>
-  <img style="float: right; margin: 50px 15px 50px 15px;" src="https://streak-stats.demolab.com/?user=brookeHD" title="GitHub streak stats" width="500" height="315"/>
+  <img style="float: right; margin: 15px 5px 15px 15px;" src="https://github-readme-stats.vercel.app/api?username=brookeHD&show_icons=true&count_private=true" title="GitHub stats" width="500" />
+  <img style="float: right; margin: 15px 5px 15px 15px;" src="https://streak-stats.demolab.com/?user=brookeHD" title="GitHub streak stats" width="500"/>
 </p>
 
 
