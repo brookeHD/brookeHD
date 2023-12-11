@@ -2,7 +2,7 @@
 <!-- <img align="right" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" height="300"/> -->
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am
-- 👩‍💻 An Adventurer with a passion for challenges.
+- 👩‍💻 an adventurer with a passion for challenges.
 - 🌱 currently speaks Java 
 <!-- - 📫 Reach me at brooke.chu4ds@gmail.com -->
 <img align=right src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif" height="300" />&nbsp;&nbsp;
