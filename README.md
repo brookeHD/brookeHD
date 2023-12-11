@@ -1,8 +1,4 @@
-
 <!--<img src="https://github.com/brookeHD/sitepoint-github-profile/blob/7308b2cdac95ae52d71dc30d14006b44ce7baf1c/assets/github-header-image.png" width="1200px">-->
-
-
-
 <!-- <img align="right" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" height="300"/> -->
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
@@ -24,7 +20,6 @@
   <img src="https://cdn.simpleicons.org/lightning/#792EE5" title="Pytorch Lightning" width="30" height="30"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" width="30" height="30"/>&nbsp;
   <img src="https://cdn.simpleicons.org/keras/#D00000" title="Keras" width="30" height="30"/>&nbsp;
-
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="30" height="30"/>&nbsp;
            -->
   <img src="https://cdn.simpleicons.org/gnubash/#4EAA25" title="bash" width="v" height="30"/>&nbsp;
@@ -33,17 +28,13 @@
   <img src="https://cdn.simpleicons.org/databricks/#FF3621" title="Databricks" width="30" height="30"/>&nbsp;
   <img src="https://cdn.simpleicons.org/apachespark/#E25A1C" title="Apache Spark" width="30" height="v"/>&nbsp;
   <img src="https://cdn.simpleicons.org/mlflow/#0194E2" title="MLflow" width="30" height="30"/>&nbsp;
-  
-  
   <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" width="30" height="30"/>&nbsp;
   <img src="https://cdn.simpleicons.org/apachekafka/white" title="Apache Kafka" width="30" height="30"/>&nbsp; -->
-  
   <img src="https://cdn.simpleicons.org/powerbi/#F2C811" title="Power BI" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="30" height="30"/>&nbsp;
   <img src="https://cdn.simpleicons.org/dbt/#FF694B" title="dbt" width="30" height="30"/>&nbsp;
-
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" width="30" height="30"/>&nbsp;
  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="30" height="30"/>&nbsp;
@@ -64,13 +55,9 @@
   <img src="https://cdn.simpleicons.org/intellijidea/#000000" title="IntelliJ IDEA" width="30" height="30"/>&nbsp;
 
   <!-- <img src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" title="VSCode" width="30" height="30"/>&nbsp;-->
-
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="30" height="30"/>&nbsp; -->
-
-          
+  <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="30" height="30"/>&nbsp; -->
 </div>
 </br>
-
 
 ---
 
